@@ -1,4 +1,4 @@
-# Readme
+# Made in Japan
 
 Hello Kitty 
 
