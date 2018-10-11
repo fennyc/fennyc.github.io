@@ -2,6 +2,8 @@
 
 Hello Kitty 
 
+Konichiwa
+
 ![](HK.jpg)
 
 
